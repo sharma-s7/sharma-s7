@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hey there! I'm Shubham<br>🚀 Frontend Developer | Aspiring Full Stack Engineer<br>💻 Passionate about crafting beautiful, responsive, and user-friendly web experiences.<br>🛠 Currently mastering backend technologies to become a full-stack developer.<br>📚 Always learning, experimenting, and pushing the limits of what I can build.<br>🔗 Tech Stack: HTML  CSS  JavaScript  React  Next.js  Node.js  MongoDB  Express<br>✨ Love working with modern frameworks and exploring new tools in web development.<br>📬 Let's connect and build something amazing together!<br><br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma-s7&label=Profile%20views&color=0e75b6&style=flat" alt="sharma-s7" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-sharma-071417353) 
